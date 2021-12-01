@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
-Wellbeing and Digital tools for Northumbria University and North East NHS trusts
+- Wellbeing and Digital tools for Northumbria University and North East NHS trusts
 
 - 🌱 I’m currently learning ...
-A range of javascript frameworks such as react and next and looking to explore GOlang
+- A range of javascript frameworks such as react and next and looking to explore GOlang
 
 - 💬 Ask me about ...
-University life, PHP, Javascript frameworks and how to expand your knowlegebase.
+- University life, PHP, Javascript frameworks and how to expand your knowlegebase.
 
 - 📫 How to reach me: ...
-portfolio.walton-web.co.uk
-(Contact Me Section)
+- portfolio.walton-web.co.uk
+- (Contact Me Section)
