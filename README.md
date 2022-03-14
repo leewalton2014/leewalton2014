@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-- Wellbeing and Digital tools for Northumbria University and North East NHS trusts
-
-- 🌱 I’m currently learning ...
-- A range of javascript frameworks such as react and next and looking to explore GOlang
-
-- 💬 Ask me about ...
-- University life, PHP, Javascript frameworks and how to expand your knowlegebase.
-
-- 📫 How to reach me: ...
-- portfolio.walton-web.co.uk
-- (Contact Me Section)
+- 🔭 I’m currently working on: Wellbeing and Digital tools for Northumbria University and North East NHS trusts
+- 🌱 I’m currently learning: A range of javascript frameworks such as react and next and looking to explore GOlang
+- 💬 Ask me about: University life, PHP, Javascript frameworks and how to expand your knowlegebase.
+- 📫 How to reach me: portfolio.walton-web.co.uk (Contact Me Section)
+- ⚡ Fun fact: In less than a month laravel has become my favourite framework for getting things done fast!
