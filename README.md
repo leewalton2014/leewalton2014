@@ -5,7 +5,8 @@ I have 5 years experience with PHP and have two years experience in Laravel, Rea
 * 🌍  I'm based in Newcastle, UK 
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio.walton-web.co.uk) 
 * ✉️  You can contact me at [lsj.walton@outlook.com](mailto:lsj.walton@outlook.com) 
-* 🧠  I'm learning Vue and Laravel
+* 💻  I'm proficient in PHP, Laravel, Node and React.
+* Experienced working with Docker, Gitlab CI, GKE and Hashicorp Vault.
 
 ### Skills
 
